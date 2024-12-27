@@ -1,0 +1,33 @@
+.small-size{
+  font-size: 10px;
+}
+
+.background-light{
+  background-color: #f8f8f8;
+}
+
+.custem-background-btn{
+  background:linear-gradient(#0a8f9a,#04a59e) ;
+  border-top-left-radius: 4px;
+  border-bottom-left-radius: 4px;
+}
+
+
+.cutem-property-icon{
+  background:linear-gradient(#0a8f9a,#04a59e) ;
+height: 40px;
+width: 40px;
+line-height: 25px;
+}
+
+
+.icon-property i{
+  height: 30px;
+  width: 30px;
+  line-height: 30px;
+  border: 1px solid #ccc;
+}
+
+.icon-property i:nth-child(2){
+  background:linear-gradient(#0a8f9a,#04a59e) ;
+}

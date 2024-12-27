@@ -1,0 +1,57 @@
+::ng-deep.p-dialog-draggable .p-dialog-header {
+  display: none;
+}
+
+.propert-inp{
+  border: 1px solid gray;
+}
+
+
+input:focus , textarea:focus{
+  outline: none;
+}
+
+input[type="checkbox"] {
+  transform: scale(1.5);
+}
+
+
+.text-left{
+  text-align: left;
+}
+
+
+.content__form button:first-child{
+background-color: #e9f4f4;
+}
+
+.content__form button:last-child{
+  background:linear-gradient(#0a8f9a,#04a59e) ;
+  }
+
+  .icon-close{
+    width:  30px;
+    height: 30px;
+    line-height: 30px;
+    font-size: 15px;
+    cursor: pointer;
+  }
+
+  #file-upload {
+    display: none;
+  }
+
+  .custom-label {
+    display: inline-block;
+    background:linear-gradient(#0a8f9a,#04a59e) ;
+    cursor: pointer;
+    font-size: 16px;
+  }
+
+  .custom-label:hover {
+    background-color: #45a049;
+  }
+
+  .left{
+    left: 5px;
+  }

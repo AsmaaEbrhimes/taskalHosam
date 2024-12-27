@@ -1,0 +1,15 @@
+.cutem-style{
+  background:linear-gradient(#0a8f9a,#04a59e) ;
+  height: 300px;
+}
+
+.fontSize{
+  font-size: 70px!important;
+}
+
+
+@media (min-width:320px) and (max-width:767px){
+  .fontSize{
+    font-size: 50px!important;
+  }
+}
